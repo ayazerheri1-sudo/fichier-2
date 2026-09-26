@@ -1,0 +1,296 @@
+================================================================================
+MODÈLE ANALYSE CTM 2021-2026
+================================================================================
+
+STRUCTURE GÉNÉRALE
+==================
+
+LE MODÈLE COMPORTE 6 FEUILLES :
+
+1. ACCUEIL (Page d'accueil / Dashboard)
+2. DONNÉES FINANCIÈRES (Income Statement, Balance Sheet, Cash Flow)
+3. RATIOS & INDICATEURS (Ratios de rentabilité, structure financière)
+4. DCF VALUATION (Évaluation par DCF)
+5. ANALYSE DE SENSIBILITÉ (Tableau de sensibilité)
+6. GRAPHIQUES (Visualisations)
+
+================================================================================
+FEUILLE 1 : ACCUEIL
+================================================================================
+
+Titre : CTM Stock Financial Analysis
+Période couverte : 2021 | 2022 | 2023 | 2024 | 2025 | 2026 (Prévision)
+
+Sections :
+- Profil de CTM
+- Logo CTM
+- Derniers chiffres clés
+- Navigation vers autres feuilles
+
+================================================================================
+FEUILLE 2 : DONNÉES FINANCIÈRES
+================================================================================
+
+SECTION A : COMPANY OVERVIEW
+────────────────────────────
+Raison Sociale : Compagnie de Transports au Maroc (CTM)
+Secteur : Transport et logistique
+Coté : Bourse de Casablanca (BVC)
+Devise : MAD (Million de Dirhams)
+Pays : Maroc
+
+SECTION B : INCOME STATEMENT (Compte de Résultat)
+──────────────────────────────────────────────────
+Lignes principales :
+
+1. Revenue (Chiffre d'affaires)
+   - Transport interurbain
+   - Transport urbain
+   - Messagerie
+   - Autres services
+   Formule : Somme des lignes composantes
+
+2. Cost of Goods Sold (COGS)
+   - Coût de la flotte
+   - Carburant
+   - Maintenance
+   Formule : % du CA ou montant fixe
+
+3. Gross Profit (Marge brute)
+   Formule : Revenue - COGS
+
+4. Operating Expenses (Dépenses d'exploitation)
+   - Salaires et charges
+   - Loyers et immobilisations
+   - Amortissements
+   - Autres frais
+   Formule : Somme détaillée
+
+5. EBITDA (Résultat avant intérêts, impôts, amortissements, dépréciations)
+   Formule : Gross Profit - Operating Expenses + Amortissements
+
+6. Depreciation & Amortization (Amortissements)
+   Formule : % des immobilisations ou montant fixe
+
+7. EBIT (Résultat d'exploitation)
+   Formule : EBITDA - Depreciation & Amortization
+
+8. Financial Expenses (Charges financières)
+   - Intérêts sur emprunts
+   - Autres frais financiers
+   Formule : Montant ou % de la dette
+
+9. Income Before Tax (Résultat avant impôts)
+   Formule : EBIT - Financial Expenses
+
+10. Income Tax (Impôts sur les bénéfices)
+    Formule : Income Before Tax × Taux d'imposition (ex: 30%)
+
+11. Net Income (Résultat net / Bénéfice net)
+    Formule : Income Before Tax - Income Tax
+
+SECTION C : BALANCE SHEET (Bilan)
+──────────────────────────────────
+
+ACTIFS :
+───────
+Courants :
+- Cash & Cash Equivalents (Trésorerie)
+- Accounts Receivable (Créances clients)
+- Inventories (Stocks)
+- Other Current Assets (Autres actifs courants)
+Total Current Assets
+
+Immobilisés :
+- Fixed Assets (Immobilisations nettes)
+- Intangible Assets (Actifs incorporels)
+- Other Long-Term Assets (Autres actifs)
+Total Fixed Assets
+
+TOTAL ASSETS (Total de l'actif)
+Formule : Total Current Assets + Total Fixed Assets
+
+PASSIFS :
+────────
+Courants :
+- Accounts Payable (Dettes fournisseurs)
+- Short-Term Debt (Dettes court terme)
+- Other Current Liabilities (Autres passifs courants)
+Total Current Liabilities
+
+Long-term :
+- Long-Term Debt (Dettes long terme)
+- Other Long-Term Liabilities (Autres passifs long terme)
+Total Long-Term Liabilities
+
+TOTAL LIABILITIES (Total des dettes)
+Formule : Total Current Liabilities + Total Long-Term Liabilities
+
+ÉQUITÉ :
+────────
+- Share Capital (Capital social)
+- Retained Earnings (Résultats accumulés)
+- Other Equity (Autres réserves)
+TOTAL EQUITY (Total capitaux propres)
+Formule : Retained Earnings (année N-1) + Net Income (année N)
+
+TOTAL LIABILITIES + EQUITY
+Formule : Total Liabilities + Total Equity
+
+SECTION D : CASH FLOW STATEMENT (Tableau de Trésorerie)
+────────────────────────────────────────────────────────
+
+OPÉRATIONNEL :
+- Net Income (Résultat net)
+- Add: Depreciation & Amortization (+ Amortissements)
+- Changes in Working Capital (Variation du fonds de roulement)
+Net Cash from Operating Activities
+
+INVESTISSEMENT :
+- Capital Expenditure (Investissements en immobilisations)
+Net Cash from Investing Activities
+
+FINANCEMENT :
+- Proceeds from Debt (Nouveaux emprunts)
+- Repayment of Debt (Remboursement dettes)
+- Dividends Paid (Dividendes versés)
+Net Cash from Financing Activities
+
+NET CHANGE IN CASH
+Formule : Operating + Investing + Financing
+
+CASH AT END OF PERIOD
+Formule : Cash at beginning + Net change in cash
+
+================================================================================
+FEUILLE 3 : RATIOS & INDICATEURS
+================================================================================
+
+SECTION E : PROFITABILITY RATIOS (Ratios de rentabilité)
+───────────────────────────────────────────────────────
+
+1. Gross Margin (Marge brute)
+   Formule : (Gross Profit / Revenue) × 100 %
+
+2. EBITDA Margin (Marge EBITDA)
+   Formule : (EBITDA / Revenue) × 100 %
+
+3. EBIT Margin (Marge d'exploitation)
+   Formule : (EBIT / Revenue) × 100 %
+
+4. Net Profit Margin (Marge nette)
+   Formule : (Net Income / Revenue) × 100 %
+
+5. Return on Assets (ROA)
+   Formule : (Net Income / Total Assets) × 100 %
+
+6. Return on Equity (ROE)
+   Formule : (Net Income / Total Equity) × 100 %
+
+SECTION F : FINANCIAL STRUCTURE RATIOS (Ratios de structure financière)
+─────────────────────────────────────────────────────────────────────
+
+1. Debt-to-Equity Ratio (Ratio d'endettement)
+   Formule : Total Liabilities / Total Equity
+
+2. Debt-to-Assets Ratio (Levier financier)
+   Formule : Total Liabilities / Total Assets
+
+3. Equity Ratio (Ratio d'autonomie financière)
+   Formule : Total Equity / Total Assets
+
+4. Current Ratio (Ratio de liquidité générale)
+   Formule : Current Assets / Current Liabilities
+
+5. Quick Ratio (Ratio de liquidité réduite)
+   Formule : (Current Assets - Inventories) / Current Liabilities
+
+6. Interest Coverage Ratio (Couverture des intérêts)
+   Formule : EBIT / Financial Expenses
+
+================================================================================
+FEUILLE 4 : DCF VALUATION
+================================================================================
+
+SECTION G : PARAMÈTRES DCF
+──────────────────────────
+- WACC (Coût moyen pondéré du capital) : à définir
+- Taux de croissance à l'infini (g) : à définir
+- Période de prévision : 2021-2026
+
+SECTION H : CALCUL DE LA VALEUR ACTUALISÉE
+────────────────────────────────────────────
+- Free Cash Flow (FCF) pour chaque année
+- Valeur actuelle de chaque FCF
+- Valeur terminale actualisée
+- Valeur d'entreprise (Enterprise Value)
+- Moins : Dettes nettes
+- Valeur des capitaux propres
+- Valeur par action
+
+================================================================================
+FEUILLE 5 : ANALYSE DE SENSIBILITÉ
+================================================================================
+
+Tableau de sensibilité sur :
+- Variation du WACC (en colonnes)
+- Variation du taux de croissance terminal (en lignes)
+- Résultat : Valeur d'entreprise ou valeur par action à chaque scénario
+
+================================================================================
+FEUILLE 6 : GRAPHIQUES
+================================================================================
+
+1. Evolution du CA (2021-2026)
+2. Evolution du Résultat Net (2021-2026)
+3. Marge nette (%) par année
+4. Structure bilan : Actif / Passif / Équité
+5. Evolution de la dette (2021-2026)
+6. ROE et ROA (2021-2026)
+
+================================================================================
+DONNÉES CTM À INTÉGRER
+================================================================================
+
+| Année | CA (M MAD) | Rés. Net (M MAD) | Actif (M MAD) | Cp. Propres (M MAD) |
+|-------|-----------|------------------|---------------|-----------------|
+| 2021  | 530       | 35,2             | 638,2         | 255,8           |
+| 2022  | 605       | 35,4             | 702,3         | 266,4           |
+| 2023  | 656       | 63,1             | 1 516,4       | 349,2           |
+| 2024  | 1 302     | 46,6             | À détailler   | À détailler     |
+| 2025  | 1 827     | 56,2             | À détailler   | À détailler     |
+| 2026  | Prévision | Prévision        | Prévision     | Prévision       |
+
+SOURCES :
+- AMMC (Autorité Marocaine du Marché des Capitaux)
+- Bourse de Casablanca
+- Rapports annuels CTM
+- Communiqués financiers officiels
+
+================================================================================
+MISE EN FORME
+================================================================================
+
+Couleurs :
+- Bandeau en-tête : Bleu foncé (RGB : 31, 78, 121)
+- Sections principales : Bleu moyen
+- Lignes de totaux : Jaune/orange
+- Texte : Noir sur blanc
+- Formules : Fond léger gris ou blanc
+
+Polices :
+- Titres : Arial 12-14 pt, gras
+- Données : Arial 10 pt
+- Formules : Arial 10 pt, italique
+
+Formats numériques :
+- Montants en MAD : Format monétaire avec séparateur de milliers
+- Pourcentages : Format % avec 2 décimales
+- Ratios : 2-4 décimales selon le contexte
+
+Largeur colonnes :
+- Colonne description : Large (30-40 caractères)
+- Colonnes années : Modérée (12-15 caractères)
+- Colonnes formules/interprétation : Large (40-50 caractères)
+
+================================================================================
